@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_item_1"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Instructions" />
+        <item
+            android:id="@+id/nav_item_2"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_item_3"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Switch Account" />
+    </group>
+
+</menu>
